@@ -1,9 +1,10 @@
 # EE126-Final-Project
 
-#Group member:
+# Group Member:
 The Vo,Gaurav Rao, Vishnu Doppalapudi
 
-#Task:
-Send a text file from one computer to another using the speakers and microphones. 
+# Task: 
+Build a digital communication system that transmit a text file between two laptops, using only the speakers and microphones
+of the computers 
 
-#Full Report: [Here](https://docs.google.com/document/d/1HJVdWi7XnXtBtKdgjQJzhc97kBT3X_9EH9Qt8xKXFvA/edit?usp=sharing)
+# [Full Report](https://docs.google.com/document/d/1HJVdWi7XnXtBtKdgjQJzhc97kBT3X_9EH9Qt8xKXFvA/edit?usp=sharing)
